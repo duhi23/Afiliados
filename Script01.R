@@ -1,3 +1,8 @@
+############################################
+#####     Responsabilidad Patronal     #####
+############################################
+
+# Funciones basicas
 prod <- function(ta, pij, t, k){
 mult<-1	
 	for(i in k:t){
@@ -22,7 +27,7 @@ simmul <- function(ta, mc, t){
 	return(vec)
 }
 
-
+# Interseccion graficas
 plot(simprod(0.04,0.035,250), col="green", ylim=c(0,20), xlim=c(150,300))
 par(new=TRUE)
 plot(simmul(0.04, 0.0933, 250), col="red", ylim=c(0,20), xlim=c(150,300))
