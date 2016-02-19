@@ -46,10 +46,8 @@ ResPat <- function(xt,t){
      return(max(sum(val), 25*366))
 }
 
-ResPat(100,180)
-
+# Simulacion - Aporte promedio 25 usd - mayor a 180 meses
 Rsup <- sapply(seq(180,400), function(i){ResPat(25,i)})
-
 
 Res <- function(xt, t){
      sxt <- xt*t
@@ -58,12 +56,10 @@ Res <- function(xt, t){
      return(res)
 }
 
+# Simulacion - Aporte promedio 25 usd - menor a 180 meses
 Rinf <- sapply(seq(1,179), function(i){Res(25,i)})
 
 # Curvas pagos
 plot(cbind(seq(180,400), Rsup), xlim=c(0,400), ylim=c(0,30000), ylab='Valor', col="green", main='Aporte 25')
 par(new=TRUE)
 plot(cbind(seq(1,179), Rinf), xlim=c(0,400), ylim=c(0,30000), ylab='Valor', col="red", main='Aporte 25')
-
-
-plot(cbind(seq(1,179), Rinf), xlim=c(0,180), ylim=c(0,1000), ylab='Valor', col="red")
