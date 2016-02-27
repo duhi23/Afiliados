@@ -31,13 +31,11 @@ ind <- function(ta, pij, mc, t){
      return(val)
 }
 
-
 # Simulacion
 
 plot(simprod(0.04, 0.035, 400), col="green", ylim=c(0,25), xlim=c(0,400), type='l', lwd=2, main="Simulación", ylab='')
 par(new=TRUE)
 plot(simmul(0.04, 0.0933, 400), col="red", ylim=c(0,25), xlim=c(0,400), type='l', lwd=2, main="Simulación", ylab='')
-
 
 ## Responsabilidad
 
@@ -57,8 +55,8 @@ Res <- function(xt, t){
 }
 
 # Simulacion - Aporte promedio 25 usd - menor a 180 meses
-Rinf <- sapply(seq(1,179), function(i){Res(25,i)})
 
+Rinf <- sapply(seq(1,179), function(i){Res(25,i)})
 
 # Curvas pagos
 plot(cbind(seq(180,400), Rsup), xlim=c(0,400), ylim=c(0,30000), ylab='Valor', col="green", main='Aporte 25')
