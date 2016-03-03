@@ -1,0 +1,1197 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.2.13)  25 FEB 2016 15:14
+entering extended mode
+**./Proyecciones.tex
+(Proyecciones.tex
+LaTeX2e <2016/02/01>
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cl
+s"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo
+"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+Requested font "cmr10" at 10.95pt
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphi
+cx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphi
+cs.sty"
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphi
+cs.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 95.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\xelatex\xetex-def\xet
+ex.def"
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infw
+arerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxc
+mds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.
+sty"
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.
+cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 143.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.s
+ty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip43
+\fb@frw=\dimen105
+\fb@frh=\dimen106
+\FrameRule=\dimen107
+\FrameSep=\dimen108
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath
+.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.
+sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.s
+ty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip47
+\thm@postskip=\skip48
+\thm@headsep=\skip49
+\dth@everypar=\toks25
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-eucl\pst-eu
+cl.sty"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks\pstric
+ks.sty"
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.s
+ty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.
+cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\base
+\pstricks.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\pst-x
+key.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval
+.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyv
+al.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvut
+ils.tex"
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count99
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\base
+\pst-fp.tex" `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count100
+\pstFP@xia=\count101
+\pstFP@xib=\count102
+\pstFP@xfa=\count103
+\pstFP@xfb=\count104
+\pstFP@rega=\count105
+\pstFP@regb=\count106
+\pstFP@regs=\count107
+\pstFP@times=\count108
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities
+\pgfutil-common.tex"
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen118
+\pgfutil@tempdimb=\dimen119
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities
+\pgfutil-common-lists.tex"))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities
+\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities
+\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks31
+))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities
+\pgffor.code.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+ath.code.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athcalc.code.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athutil.code.tex"
+\pgf@x=\dimen120
+\pgf@xa=\dimen121
+\pgf@xb=\dimen122
+\pgf@xc=\dimen123
+\pgf@y=\dimen124
+\pgf@ya=\dimen125
+\pgf@yb=\dimen126
+\pgf@yc=\dimen127
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\pgfutil@tempcnta=\count113
+\pgfutil@tempcntb=\count114
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athparser.code.tex"
+\pgfmath@dimen=\dimen128
+\pgfmath@count=\count115
+\pgfmath@box=\box28
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.code.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.basic.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.trigonometric.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.random.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.comparison.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.base.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.round.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.misc.code.tex")
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfunctions.integerarithmetics.code.tex")))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfm
+athfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count116
+))
+\pgffor@iter=\dimen129
+\pgffor@skip=\dimen130
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+)
+\psLoopIndex=\count117
+
+`PSTricks' v2.64b  <2015/14/11> (tvz)
+\pst@dima=\dimen131
+\pst@dimb=\dimen132
+\pst@dimc=\dimen133
+\pst@dimd=\dimen134
+\pst@dimg=\dimen135
+\pst@dimh=\dimen136
+\pst@dimm=\dimen137
+\pst@dimn=\dimen138
+\pst@dimo=\dimen139
+\pst@dimp=\dimen140
+\pst@hbox=\box29
+\pst@ibox=\box30
+\pst@boxg=\box31
+\pst@cnta=\count118
+\pst@cntb=\count119
+\pst@cntc=\count120
+\pst@cntd=\count121
+\pst@cntg=\count122
+\pst@cnth=\count123
+\pst@cntm=\count124
+\pst@cntn=\count125
+\pst@cnto=\count126
+\pst@cntp=\count127
+\@zero=\count128
+\pst@toks=\toks37
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\xelatex\xetex-pstrick
+s\pstricks.con"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\conf
+ig\xdvipdfmx.cfg"))
+\psunit=\dimen141
+\psxunit=\dimen142
+\psyunit=\dimen143
+\pst@C@@rType=\count129
+\pslinewidth=\dimen144
+\psk@startLW=\dimen145
+\psk@endLW=\dimen146
+\pst@customdefs=\toks38
+\pslinearc=\dimen147
+\pst@symbolStep=\dimen148
+\pst@symbolWidth=\dimen149
+\pst@symbolLinewidth=\dimen150
+\everypsbox=\toks39
+\psframesep=\dimen151
+\pslabelsep=\dimen152
+\sh@wgridXunit=\dimen153
+\sh@wgridYunit=\dimen154
+\pst@shift=\dimen155
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\xelatex\xetex-pstrick
+s\pstricks.con"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\conf
+ig\xdvipdfmx.cfg"
+Using PSTricks configuration for XeTeX+xdvipdfmx
+)))
+File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\base
+\pst-fp.tex")
+File: pst-fp.tex 2015/14/11 v2.64b `PST-fp' (hv)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-node\pst-no
+de.sty"
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-node\pst-
+node.tex"  v1.35, 2014/08/04
+\psrow=\count130
+\pscol=\count131
+\psmatrixcnt=\count132
+\psrowsep=\skip50
+\pscolsep=\skip51
+\pst@args=\count133
+\num@pts=\count134
+\pst@argcnt=\count135
+)
+File: pst-node.tex 2014/08/04 1.35 `pst-node' (tvz,hv)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-tools\pst-t
+ools.sty"
+Package: pst-tools 2012/01/01 package wrapper for pst-tools.tex (hv)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-tools\pst
+-tools.tex" `PST-tools' v0.05, 2014/05/12 (hv))
+File: pst-tools.tex 2014/05/12 v0.05 `PST-tools' (hv)
+)
+Package: pst-eucl 2014/05/17 package wrapper for PSTricks pst-eucl.tex
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-eucl\pst-
+eucl.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\multido\multi
+do.tex"  v1.42, 2010/05/14 <tvz>
+\multido@count=\count136
+\multidocount=\count137
+\multido@stuff=\toks40
+) `PST-Euclide v1.52, 2015/10/19 (dr,hv)
+ This version uses the pst-xkey package for managing parameters
+ Please read the doc, some macros have a new syntax
+ use option old for upward compatibility
+\psMarkHashLength=\dimen156
+\psMarkHashSep=\dimen157
+)
+File: pst-eucl.tex 2015/10/19 v1.52 `PST-eucl' (dr,hv)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks-add\ps
+tricks-add.sty"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-plot\pst-pl
+ot.sty"
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\pst-xke
+y.sty"
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multido\multido
+.sty"
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+)
+Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-plot\pst-
+plot.tex"
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-tools\pst
+-tools.tex")  v1.70, 2014/08/23 (tvz,hv)
+\pstRadUnit=\dimen158
+\pstRadUnitInv=\dimen159
+\pst@linecnt=\count138
+\RCD@file=\read1
+\psxlabelsep=\dimen160
+\psylabelsep=\dimen161
+\psk@subticksize=\dimen162
+\pst@xticksizeA=\dimen163
+\pst@xticksizeB=\dimen164
+\pst@xticksizeC=\dimen165
+\pst@yticksizeA=\dimen166
+\pst@yticksizeB=\dimen167
+\pst@yticksizeC=\dimen168
+\@digitcounter=\count139
+\psk@llx=\dimen169
+\psk@lly=\dimen170
+\psk@urx=\dimen171
+\psk@ury=\dimen172
+\pst@xunit=\dimen173
+\pst@yunit=\dimen174
+)
+File: pst-plot.tex 2014/08/23 1.70 `pst-plot' (tvz,hv)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-3d\pst-3d.s
+ty"
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-3d\pst-3d
+.tex" `PST-3d' v1.11, 2010/02/14 (tvz))
+File: pst-3d.tex 2010/02/14 v1.11 `PST-3d' (hv)
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pst-math\pst-ma
+th.sty"
+Package: pst-math 2014/07/30 package wrapper for PSTricks pst-math.tex
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pst-math\pst-
+math.tex" `pst-math' v0.63 , (CJ,hv))
+File: pst-math.tex 2014/07/30 v0.63 `PST-math' (hv)
+)
+Package: pstricks-add 2010/02/11 v. 0.14 package wrapper for pstricks-add.tex (
+hv)
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks-add\
+pstricks-add.tex" `pstricks-add' v3.79, 2016/02/09 (dr,hv)
+\psparallelogramsep=\dimen175
+\pshooklength=\dimen176
+\pshookwidth=\dimen177
+\pst@cntC=\count140
+\chart@ColorIndex=\dimen178
+\chart@ColorStep=\dimen179
+\pst@chartHeight=\dimen180
+\pst@chartStackDepth=\dimen181
+\pst@chartStackWidth=\dimen182
+\chart@Toggle=\count141
+\psVectorCtr=\count142
+)
+File: pstricks-add.tex 2016/02/09 v3.79 `PSTricks-add' (hv)
+Package pstricks-add Info: Local config file pstricks-add.cfg used on input lin
+e 20.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks-add\ps
+tricks-add.cfg"
+File: pstricks-add.cfg 2005/01/10 v0.1 addtional user stuff (hv)
+))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.s
+ty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks41
+\inpenc@posthook=\toks42
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
+ty"
+Package: babel 2016/01/08 3.9n The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopt
+s.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\s
+panish.ldf"
+Language: spanish.ldf 2016/01/15 v5.0o Spanish support from the babel system
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.d
+ef"
+File: babel.def 2016/01/08 3.9n Babel common definitions
+\babel@savecnt=\count143
+\U@D=\dimen183
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\xebabel
+.def"))
+\es@quottoks=\toks43
+\es@quotdepth=\count144
+Package babel Info: Making " an active character on input line 533.
+Package babel Info: Making . an active character on input line 634.
+Package babel Info: Making < an active character on input line 679.
+Package babel Info: Making > an active character on input line 679.
+Package babel Info: Making ' an active character on input line 697.
+))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geomet
+ry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpd
+f.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvt
+ex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxet
+ex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count145
+\Gm@cntv=\count146
+\c@Gm@tempcnt=\count147
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks44
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\xelatex\xetexconfig\g
+eometry.cfg"))
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.st
+y"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+Requested font "ecrm1095" at 10.95pt
+) ("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count148
+\float@exts=\toks45
+\float@box=\box32
+\@float@everytoks=\toks46
+\@floatcapt=\box33
+) ("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty
+"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.
+sty"
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count149
+\mult@box=\box34
+\multicol@leftmargin=\dimen192
+\c@unbalance=\count150
+\c@collectmore=\count151
+\doublecol@number=\count152
+\multicoltolerance=\count153
+\multicolpretolerance=\count154
+\full@width=\dimen193
+\page@free=\dimen194
+\premulticols=\dimen195
+\postmulticols=\dimen196
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box35
+\last@line=\box36
+\maxbalancingoverflow=\dimen197
+\mult@rightbox=\box37
+\mult@grightbox=\box38
+\mult@gfirstbox=\box39
+\mult@firstbox=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\c@columnbadness=\count155
+\c@finalcolumnbadness=\count156
+\last@try=\dimen198
+\multicolovershoot=\dimen199
+\multicolundershoot=\dimen256
+\mult@nat@firstbox=\box58
+\colbreak@box=\box59
+\mc@col@check@num=\count157
+)
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\upquote\upquote
+.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.s
+ty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)) (Proyecciones.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+)
+\openout1 = `Proyecciones.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Requested font "ecrm1728" at 17.28pt
+Requested font "ecrm1200" at 12.0pt
+Requested font "cmr12" at 12.0pt
+Requested font "cmr8" at 8.0pt
+Requested font "cmr6" at 6.0pt
+Requested font "cmmi12" at 12.0pt
+Requested font "cmmi8" at 8.0pt
+Requested font "cmmi6" at 6.0pt
+Requested font "cmsy10" at 12.0pt
+Requested font "cmsy8" at 8.0pt
+Requested font "cmsy6" at 6.0pt
+Requested font "cmex10" at 12.0pt
+Requested font "cmex8" at 8.0pt
+Requested font "cmex7" at 6.0pt
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+Requested font "msam10" at 12.0pt
+Requested font "msam10" at 8.0pt
+Requested font "msam7" at 6.0pt
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Requested font "msbm10" at 12.0pt
+Requested font "msbm10" at 8.0pt
+Requested font "msbm7" at 6.0pt
+Requested font "ecrm1440" at 14.4pt
+Requested font "ecbx1440" at 14.4pt
+Requested font "cmmi10" at 10.95pt
+Requested font "cmsy10" at 10.95pt
+Requested font "cmex10" at 10.95pt
+Requested font "msam10" at 10.95pt
+Requested font "msbm10" at 10.95pt
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 85.
+
+File: figure/unnamed-chunk-1-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-1-1.pdf" >
+File: figure/unnamed-chunk-1-2.pdf Graphic file (type QTm)
+ <use  "figure/unnamed-chunk-1-2.pdf" >
+[1
+
+]
+File: figure/unnamed-chunk-1-3.pdf Graphic file (type QTm)
+ <use  "figure/unnamed-chunk-1-3.pdf" >
+File: figure/unnamed-chunk-1-4.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-1-4.pdf" > [2]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+Requested font "ecbx1200" at 12.0pt
+
+Package xcolor Warning: Incompatible color definition on input line 130.
+
+File: figure/unnamed-chunk-2-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-2-1.pdf" > [3]
+
+Package xcolor Warning: Incompatible color definition on input line 143.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 144.
+
+("C:\Users\Usuario1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Requested font "ectt1095" at 10.95pt
+
+
+Package xcolor Warning: Incompatible color definition on input line 157.
+
+File: figure/unnamed-chunk-4-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-4-1.pdf" >
+
+Package xcolor Warning: Incompatible color definition on input line 168.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 184.
+
+File: figure/unnamed-chunk-6-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-6-1.pdf" > [5]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 199.
+
+
+Package xcolor Warning: Incompatible color definition on input line 216.
+
+File: figure/unnamed-chunk-8-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-8-1.pdf" >
+Overfull \hbox (17.0pt too wide) in paragraph at lines 217--218
+[][] 
+ []
+
+[6]
+
+Package xcolor Warning: Incompatible color definition on input line 224.
+
+File: figure/unnamed-chunk-9-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-9-1.pdf" > [7]
+
+Package xcolor Warning: Incompatible color definition on input line 237.
+
+
+Package xcolor Warning: Incompatible color definition on input line 251.
+
+File: figure/unnamed-chunk-11-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-11-1.pdf" >
+
+Package xcolor Warning: Incompatible color definition on input line 262.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 278.
+
+File: figure/unnamed-chunk-13-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-13-1.pdf" > [9]
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 294.
+
+
+Package xcolor Warning: Incompatible color definition on input line 311.
+
+File: figure/unnamed-chunk-15-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-15-1.pdf" >
+Overfull \hbox (17.0pt too wide) in paragraph at lines 312--313
+[][] 
+ []
+
+[10]
+
+Package xcolor Warning: Incompatible color definition on input line 321.
+
+File: figure/unnamed-chunk-16-1.pdf Graphic file (type QTm)
+<use  "figure/unnamed-chunk-16-1.pdf" > [11]
+File: figure/unnamed-chunk-16-2.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-2.pdf" > [12]
+File: figure/unnamed-chunk-16-3.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-3.pdf" >
+File: figure/unnamed-chunk-16-4.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-4.pdf" > [13]
+File: figure/unnamed-chunk-16-5.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-5.pdf" > [14]
+File: figure/unnamed-chunk-16-6.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-6.pdf" >
+File: figure/unnamed-chunk-16-7.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-7.pdf" > [15]
+File: figure/unnamed-chunk-16-8.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-8.pdf" > [16]
+File: figure/unnamed-chunk-16-9.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-9.pdf" >
+File: figure/unnamed-chunk-16-10.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-10.pdf" > [17]
+File: figure/unnamed-chunk-16-11.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-11.pdf" > [18]
+File: figure/unnamed-chunk-16-12.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-12.pdf" >
+File: figure/unnamed-chunk-16-13.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-13.pdf" > [19]
+File: figure/unnamed-chunk-16-14.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-14.pdf" > [20]
+File: figure/unnamed-chunk-16-15.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-15.pdf" >
+File: figure/unnamed-chunk-16-16.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-16.pdf" > [21]
+File: figure/unnamed-chunk-16-17.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-17.pdf" > [22]
+File: figure/unnamed-chunk-16-18.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-18.pdf" >
+File: figure/unnamed-chunk-16-19.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-19.pdf" > [23]
+File: figure/unnamed-chunk-16-20.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-20.pdf" > [24]
+File: figure/unnamed-chunk-16-21.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-21.pdf" >
+File: figure/unnamed-chunk-16-22.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-22.pdf" > [25]
+File: figure/unnamed-chunk-16-23.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-23.pdf" > [26]
+File: figure/unnamed-chunk-16-24.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-24.pdf" >
+File: figure/unnamed-chunk-16-25.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-25.pdf" > [27]
+File: figure/unnamed-chunk-16-26.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-26.pdf" > [28]
+File: figure/unnamed-chunk-16-27.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-27.pdf" >
+File: figure/unnamed-chunk-16-28.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-28.pdf" > [29]
+File: figure/unnamed-chunk-16-29.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-29.pdf" > [30]
+File: figure/unnamed-chunk-16-30.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-30.pdf" >
+File: figure/unnamed-chunk-16-31.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-31.pdf" > [31]
+File: figure/unnamed-chunk-16-32.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-32.pdf" > [32]
+File: figure/unnamed-chunk-16-33.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-33.pdf" >
+File: figure/unnamed-chunk-16-34.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-34.pdf" > [33]
+File: figure/unnamed-chunk-16-35.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-35.pdf" > [34]
+File: figure/unnamed-chunk-16-36.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-36.pdf" >
+File: figure/unnamed-chunk-16-37.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-37.pdf" > [35]
+File: figure/unnamed-chunk-16-38.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-38.pdf" > [36]
+File: figure/unnamed-chunk-16-39.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-39.pdf" >
+File: figure/unnamed-chunk-16-40.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-40.pdf" > [37]
+File: figure/unnamed-chunk-16-41.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-41.pdf" > [38]
+File: figure/unnamed-chunk-16-42.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-42.pdf" >
+File: figure/unnamed-chunk-16-43.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-43.pdf" > [39]
+File: figure/unnamed-chunk-16-44.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-44.pdf" > [40]
+File: figure/unnamed-chunk-16-45.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-45.pdf" >
+File: figure/unnamed-chunk-16-46.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-46.pdf" > [41]
+File: figure/unnamed-chunk-16-47.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-47.pdf" > [42]
+File: figure/unnamed-chunk-16-48.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-48.pdf" >
+File: figure/unnamed-chunk-16-49.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-49.pdf" > [43]
+File: figure/unnamed-chunk-16-50.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-50.pdf" > [44]
+File: figure/unnamed-chunk-16-51.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-51.pdf" >
+File: figure/unnamed-chunk-16-52.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-52.pdf" > [45]
+File: figure/unnamed-chunk-16-53.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-53.pdf" > [46]
+File: figure/unnamed-chunk-16-54.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-54.pdf" >
+File: figure/unnamed-chunk-16-55.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-55.pdf" > [47]
+File: figure/unnamed-chunk-16-56.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-56.pdf" > [48]
+File: figure/unnamed-chunk-16-57.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-57.pdf" >
+File: figure/unnamed-chunk-16-58.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-58.pdf" > [49]
+File: figure/unnamed-chunk-16-59.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-59.pdf" > [50]
+File: figure/unnamed-chunk-16-60.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-60.pdf" >
+File: figure/unnamed-chunk-16-61.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-61.pdf" > [51]
+File: figure/unnamed-chunk-16-62.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-62.pdf" > [52]
+File: figure/unnamed-chunk-16-63.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-63.pdf" >
+File: figure/unnamed-chunk-16-64.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-64.pdf" > [53]
+File: figure/unnamed-chunk-16-65.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-65.pdf" > [54]
+File: figure/unnamed-chunk-16-66.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-66.pdf" >
+File: figure/unnamed-chunk-16-67.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-67.pdf" > [55]
+File: figure/unnamed-chunk-16-68.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-68.pdf" > [56]
+File: figure/unnamed-chunk-16-69.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-69.pdf" >
+File: figure/unnamed-chunk-16-70.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-70.pdf" > [57]
+File: figure/unnamed-chunk-16-71.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-71.pdf" > [58]
+File: figure/unnamed-chunk-16-72.pdf Graphic file (type QTm)
+
+<use  "figure/unnamed-chunk-16-72.pdf" > [59] (Proyecciones.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+) ) 
+Here is how much of TeX's memory you used:
+ 13640 strings out of 428702
+ 225584 string characters out of 3159663
+ 354355 words of memory out of 3000000
+ 16728 multiletter control sequences out of 15000+200000
+ 14767 words of font info for 45 fonts, out of 3000000 for 9000
+ 1096 hyphenation exceptions out of 8191
+ 44i,8n,68p,603b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on Proyecciones.pdf (59 pages).

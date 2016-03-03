@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "######################################################\n#####     Proyeccion Afiliados por Provincia     #####\n#####           Estimacion por Splines           #####\n######################################################\n\nlibrary('forecast')\nlibrary('readxl')\nlibrary('dplyr')\nlibrary('changepoint')\nlibrary('tsoutliers')\nlibrary('expsmooth')\nlibrary('fma')\nls(\"package:forecast\")\n\ndata <- read_excel(\"Cotizantes.xlsx\", sheet = 1)\ndata <- data %>% select(-Periodo)\nglimpse(data)\n\n# Analisis de perfiles\n\nperfil <- prop.table(as.matrix(data),2)\nplot(perfil[48,], type='b', col=\"red\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[60,], type='b', col=\"yellow\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[72,], type='b', col=\"gray\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[84,], type='b', col=\"green\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[96,], type='b', col=\"orange\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[108,], type='b', col=\"black\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[120,], type='b', col=\"darkred\", ylim=c(0,0.015))\npar(new=TRUE)\nplot(perfil[132,], type='b', col=\"blue\", ylim=c(0,0.015))\n\n\n# Analisis de Series Temporales\n\ndata <- ts(data, start = c(2005), frequency = 12)\ndata12 <- ts(data[61:120,], start = c(2010), frequency = 12) # retiramos ultimos 6 meses\n\npred <- matrix(0, ncol=24, nrow=12)\n\nfor(j in 1:24){\n     pred[,j] <- forecast(auto.arima(data12[,j]), h=12)$mean\n}\n\n\ncolnames(pred) <- colnames(data[121:132,])\n\nmatdif <- data[121:132,] - pred\n\nlapply(seq(1,24), function(i){auto.arima(matdif[,i])})\n\nplot(forecast(auto.arima(matdif[,1]), h=12))\n\n# Correccion de medias\nmatmean <- matrix(0, nrow=nrow(data12), ncol=ncol(data12))\n\nfor(j in 1:24){\n     index <- cpt.mean(diff(data12[,j]))@cpts[1]\n     if(index > 1){\n          matmean[index:78, j] <- cpt.mean(diff(data12[,j]))@param.est$mean[2] - cpt.mean(diff(data12[,j]))@param.est$mean[1]\n     }\n}\n\nvecmax <- apply(matmean, 2, min)\n     \nnmat <- as.matrix(data12)-matmean\nclass(nmat)\n\nmatpro <- matrix(0, nrow=42, ncol=24)\nfor(j in 1:24){\n     matpro[,j] <- round(as.vector(forecast(auto.arima(nmat[,j]), h=42)$mean), 0)\n}\n\ncolnames(matpro) <- colnames(data12)\nmatpro <- ts(matpro, start = c(2015, 7), frequency = 12)\n\nplot(cbind(seq(1,132), as.vector(data[,1])), xlim=c(1,168), ylim=c(0, 220000), col=\"red\")\npar(new=TRUE)\nplot(cbind(seq(126, 167), as.vector(matpro[,1])+vecmax[1]), xlim=c(1,168), ylim=c(0, 220000), col=\"blue\")\n\n# Ajuste por Splines\nplot(splinef(data[,19], h=36, method=\"mle\"))\n\n\n# Analisis de intervencion\nls(\"package:changepoint\")\n\nfor(i in 1:24){\n     plot(forecast(auto.arima(data12[,i]), h=36))\n}\n\n\nvecmean <- numeric(length(data[,1]))\nindex <- cpt.mean(diff(data[,1]))@cpts\nvecmean[1:index[1]] <- cpt.mean(diff(data[,1]))@param.est$mean[1]\nvecmean[(index[1]+1):(index[2]+1)] <- cpt.mean(diff(data[,1]))@param.est$mean[2]\n\nplot(as.vector(data[,1]) - vecmean, type='l')\n\nplot(forecast(auto.arima(as.vector(data[,1]) - vecmean), h=24))\n\nfor(i in 1:24){\n     #plot(data12[,i], main=colnames(data12)[i])\n     plot(cpt.mean(data12[,i]), main=colnames(data12)[i])\n     plot(cpt.mean(diff(data12[,i])), main=colnames(data12)[i])\n     #print(colnames(data12)[i])\n     #print(cpt.mean(diff(data12[,i]))@cpts)\n}\n\n\n",
+    "created" : 1456493526284.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4112555029",
+    "id" : "D7745601",
+    "lastKnownWriteTime" : 1456930078,
+    "last_content_update" : 1456930078853,
+    "path" : "~/Diego/Afiliados Provincia/Script03.R",
+    "project_path" : "Script03.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

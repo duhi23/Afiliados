@@ -1,0 +1,9 @@
+{
+    "path" : "~/Diego/Afiliados Provincia",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
