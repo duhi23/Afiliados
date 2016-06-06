@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ######################################################
 #####     Proyeccion Afiliados por Provincia     #####
 ######################################################
@@ -216,8 +215,6 @@ afi <- c(3526093, 5115326, 5715049, 6385085, 7133676)
 apply(proy, 1, sum) - afi
 
 
-
-
 ##############################################################################################
 
 
@@ -258,16 +255,6 @@ plot(info[[1]], info[["GUAYAS"]], type='o', xlim=c(2006, 2040), ylim=c(0,0.25), 
 legend(2025,0.22, c("Ecuador", "Pichincha", "Guayas"), lty=c(1,1,1), lwd=c(2,2,2),col=c("blue","red","green"))
 
 
-
-
-
-
-
-
-
-
-
-
 layout(matrix(c(1,1,2,3),2,2, byrow = TRUE))
 plot(data[,10], main="Serie original", ylab="Afiliados")
 acf(data[,10], main="FAC", ci.col="red", ylab="ACF", 48)
@@ -293,7 +280,8 @@ plot(mod$residuals, main="Serie original", ylab="Afiliados")
 acf(mod$residuals, main="FAC", ci.col="red", ylab="ACF", 48)
 pacf(mod$residuals, main="FACP", ci.col="red", ylab="PACF", 48)
 
-=======
+
+
 ################################################
 #######     Responsabilidad Patronal     #######
 ################################################
@@ -358,4 +346,3 @@ Rinf <- sapply(seq(1,179), function(i){Res(25,i)})
 plot(cbind(seq(180,400), Rsup), xlim=c(0,400), ylim=c(0,30000), ylab='Valor', col="green", main='Aporte 25')
 par(new=TRUE)
 plot(cbind(seq(1,179), Rinf), xlim=c(0,400), ylim=c(0,30000), ylab='Valor', col="red", main='Aporte 25')
->>>>>>> d9019a8193fb5ac4d356055ce1c51683e2feea9c
