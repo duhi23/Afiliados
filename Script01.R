@@ -317,9 +317,9 @@ ind <- function(ta, pij, mc, t){
 
 # Simulacion
 
-plot(simprod(0.04, 0.035, 400), col="green", ylim=c(0,25), xlim=c(0,400), type='l', lwd=2, main="Simulación", ylab='')
+plot(simprod(0.04, 0.035, 300), col="green", ylim=c(0,8), xlim=c(0,300), type='l', lwd=2, main="Simulación", ylab='')
 par(new=TRUE)
-plot(simmul(0.04, 0.0933, 400), col="red", ylim=c(0,25), xlim=c(0,400), type='l', lwd=2, main="Simulación", ylab='')
+plot(simmul(0.04, 0.0933, 300), col="red", ylim=c(0,8), xlim=c(0,300), type='l', lwd=2, main="Simulación", ylab='')
 
 ## Responsabilidad
 
